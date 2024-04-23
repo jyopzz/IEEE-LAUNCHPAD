@@ -1,8 +1,9 @@
-# Full Name 
+# Jyothis Joseph
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> Myself Jyothis Joseph, pursuing B.Tech in computer science and Engineering at Christ University,Bangalore.Practical projects that allow me to apply my knowledge to real-world problems are what motivate me. I enjoy learning, developing, and working on innovative projects that have a beneficial influence. To find out more about my journey and projects, let's connect on LinkedIn or take a look at my GitHub account. I'm constantly looking for innovative projects and alliances that push the limits of technology.
+> linkedin :- https://www.linkedin.com/in/jyothis-joseph/
 
 
 ## Portfolio Highlights
@@ -11,49 +12,30 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| **Web Application -Falcon Air Travels**  | EDUCATIONLANGUAGESDevelop a website to provide an overview of the company, including the customerreviews, and create a login for the admin to manage the reviews.Stack uses HTML, CSS, JavaScript, Django, and SQL lite.                                              | [Hosted ](https://falconairtravel.in/)                |
+| **RFID-based automatic parking systemINTERNSHIP**  | TravelA parking system that relies on RFID technology utilizes radio waves for theautomated parking of vehicles. Each car is equipped with a tag, and the entrancegate is fitted with a reader. The reader examines the tag and activates the gatethrough a server motor.     
+| 
 
-#### Leadership and Influence:
-
-- explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
-
-#### Networking:
-
-- explain your networking skills and how you plan to engage with the communitys. Outline how you will influence and lead others in your respective field.
 
 #### Career Plan:
 
-- outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better. Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- My short-term goals are to land a position as a software engineer in a respectable organization so I may continue honing my craft and contribute to worthwhile projects. In order to succeed in my position, I'll give equal weight to developing my technical proficiency and building a strong foundation in the industry.
 
-#### Thoughts on Kerala's Tech Ecosystem:
+- Ultimately, I want to work my way up to senior roles in the field of software engineering. I want to lead teams to innovation and greatness by utilizing my experience and knowledge. I am dedicated to leaving a lasting mark on the technological environment and promoting positive change through technology by learning constantly, developing my leadership skills, and keeping up with industry trends.
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
 
-#### History of Open Source Contributions:
-
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
-
-#### History of Community Engagement:
-
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
-
-#### Highly Visible Technical Content:
-
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
 
 #### Highly Used Software Tools:
 
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
+- VS CODE, Linux
 
-#### Competitive Website Profiles:
-
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
 
 
 
 > In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
+>> check out [
+jyothisjoseph@mulearn.md](./profiles/
+jyothisjoseph@mulearn.md) for an exmaple
 
 ---
 
