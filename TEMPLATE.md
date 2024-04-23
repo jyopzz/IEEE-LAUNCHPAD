@@ -12,7 +12,7 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Web Application -Falcon Air Travels**  | EDUCATIONLANGUAGESDevelop a website to provide an overview of the company, including the customerreviews, and create a login for the admin to manage the reviews.Stack uses HTML, CSS, JavaScript, Django, and SQL lite.                                              | [Hosted ](https://falconairtravel.in/)                |
+| **Web Application -Falcon Air Travels**  | EDUCATIONLANGUAGESDevelop a website to provide an overview of the company, including the customerreviews, and create a login for the admin to manage the reviews.Stack uses HTML, CSS, JavaScript, Django, and SQL lite.                                              | [Hosted link ](https://falconairtravel.in/)                |
 | **RFID-based automatic parking systemINTERNSHIP**  | TravelA parking system that relies on RFID technology utilizes radio waves for theautomated parking of vehicles. Each car is equipped with a tag, and the entrancegate is fitted with a reader. The reader examines the tag and activates the gatethrough a server motor.     
 | 
 
@@ -28,14 +28,6 @@
 #### Highly Used Software Tools:
 
 - VS CODE, Linux
-
-
-
-
-> In your portfolio, include the following details:
->> check out [
-jyothisjoseph@mulearn.md](./profiles/
-jyothisjoseph@mulearn.md) for an exmaple
 
 ---
 
